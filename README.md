@@ -1,3 +1,3 @@
-# ZOOOV (на доработке)
+# ZOOOV 
 
 https://yuliyaleushina.github.io/ZOOOV/
